@@ -1,0 +1,31 @@
+= SpringBoot中使用Swagger2构建RESTful接口
+
+
+[[_overview]]
+== 概览
+接口说明
+
+
+=== 版本信息
+[%hardbreaks]
+__版本__ : 1.0.0
+
+
+=== 联系方式
+[%hardbreaks]
+__名字__ : fjl&cyl
+__邮箱__ : 192****293@qq.com
+
+
+=== URI scheme
+[%hardbreaks]
+__域名__ : localhost:8081
+__基础路径__ : /
+
+
+=== 标签
+
+* book-controller : Book Controller
+
+
+
