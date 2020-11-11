@@ -9,5 +9,4 @@ public class SpringbootSwaggerApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SpringbootSwaggerApplication.class, args);
 	}
-
 }
